@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujxy93
-- 👀 I’m interested in video games
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning Computer Science Engg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
